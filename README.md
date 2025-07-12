@@ -20,5 +20,5 @@ Clone the Repository or Download the File
 
 bash:
 
-git clone https://github.com/your-username/python-chatbot.git
+git clone https://github.com/Adityarai4646/python-chatbot.git
 cd python-chatbot
